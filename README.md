@@ -8,5 +8,5 @@ Endoscopic resection (ER) is a treatment option for clinically T1a early gastric
 - Please cite here,
 
     ```markdown
-    Machine Learning Model to Stratify the Risk of Lymph Node Metastasis for Early Gastric Cancer: A Single-Center Cohort Study
+    Na, J.-E., Lee, Y.-C. et al. Machine Learning Model to Stratify the Risk of Lymph Node Metastasis for Early Gastric Cancer: A Single-Center Cohort Study. Cancers 14, 1121 (2022).
     ```
